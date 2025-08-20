@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msolarroyo&label=Profile%20views&color=0e75b6&style=flat" alt="msolarroyo" /> </p>
 
+https://github-profile-trophy.vercel.app/?username=msolarroyo
+
 - 🔭 I’m currently working on **a platform with Nextjs**
 
 - 🌱 I’m currently learning **React,NextJS and UX/UI Design.**
