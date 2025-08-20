@@ -2,8 +2,8 @@
 <h3 align="center">I'm from Argentina 🇦🇷 and I'm a Frontend Web Developer. I like the challenges and learn from them. At the moment I'm training in React,NextJs and UX/UI Design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msolarroyo&label=Profile%20views&color=0e75b6&style=flat" alt="msolarroyo" /> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=msolarroyo" alt="msolarroyo" />
 
-https://github-profile-trophy.vercel.app/?username=msolarroyo
 
 - 🔭 I’m currently working on **a platform with Nextjs**
 
