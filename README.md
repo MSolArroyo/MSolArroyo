@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/msolarroyo)](https://github.com/msolarroyo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/MSolArroyo)](https://github.com/MSolArroyo/github-profile-trophy)
 - 🔭 I’m currently working on **a platform with Nextjs**
 
 - 🌱 I’m currently learning **React,NextJS and UX/UI Design.**
